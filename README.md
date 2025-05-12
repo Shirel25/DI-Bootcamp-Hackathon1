@@ -1,35 +1,62 @@
+# The Data Depart-ment – HR Analytics Hackathon Project 👩‍💻👩‍💻
 
-Introduction
-We are Anne Wolf and Shirel Amozieg. We’re excited to participate in this hackathon focused on exploring employee attrition and performance, as we believe data-driven insights can lead to meaningful improvements in workplace culture.
+This project was developed as part of an HR analytics hackathon by Anne Wolf and Shirel Amozieg. Our goal was to explore the factors influencing employee attrition and performance through data-driven insights that can inspire better workplace strategies.
 
-**Goals**
-Our primary goal is to conduct a thorough analysis of the “IBM HR Analytics Employee Attrition & Performance” dataset. We aim to uncover key patterns and correlations that help organizations understand the factors influencing employee turnover and performance. Additionally, if we have time, we will compare our findings with another dataset that examines job satisfaction and performance in remote work versus in-office work settings, to identify trends and differences between these work environments.
+## 🎯 Project Goals
 
-**Project Idea**
-Our project will focus on identifying significant factors contributing to employee attrition and performance within a corporate setting. We plan to explore variables such as distance from home, job role, work-life balance, education level, managerial retention, and job satisfaction.
+- Analyze the “IBM HR Analytics Employee Attrition & Performance” dataset
+- Identify key variables driving employee turnover, job satisfaction, and performance
+- Compare findings with an additional dataset related to remote vs. in-office work (time permitting)
 
-**Key Deliverables**
-A comprehensive report detailing our findings.
+## 💡 Project Focus
 
-Visualizations to illustrate the correlations between various factors.
+We explored HR-related features such as:
+- Distance from home
+- Job role & education
+- Work-life balance
+- Managerial support
+- Job satisfaction & environment
 
-Insights comparing the impact of remote work versus in-office work on job satisfaction and performance.
+Our aim was to uncover meaningful patterns and correlations to inform retention strategies and business recommendations.
 
-**Team Dynamics**
-We will leverage our complementary skills throughout the hackathon. Anne will focus on data analysis and visualization, while Shirel will preprocess the data and concentrate on interpreting the results in the context of HR practices. This collaboration will enable us to create a well-rounded project.
+## 📊 Deliverables
 
-**Learning Objectives**
-Through this hackathon, we aim to:
+- A clean, analyzed dataset
+- Visualizations of key insights (correlation heatmaps, attrition drivers, comparative charts)
+- Business-oriented recommendations for improving employee satisfaction and retention
 
-Enhance our skills in data analysis and visualization tools (e.g., Python, pandas).
+## 🤝 Team Dynamics
 
-Gain deeper insights into HR analytics and its practical applications in corporate environments.
+- **Anne** focused on data exploration and visual storytelling
+- **Shirel** led data preprocessing and interpretation through an HR strategy lens
 
-**Potential Challenges**
-We anticipate challenges in data cleaning and ensuring the accuracy of our analysis. To address this, we plan to dedicate time at the beginning of the hackathon for data preprocessing and validation.
+This complementary collaboration helped us approach the challenge from both technical and human perspectives.
 
-**Contribution to the Community**
-By analyzing these datasets, we hope to provide valuable insights that can help organizations foster a more engaging work environment. Our findings can serve as a foundation for developing initiatives aimed at improving employee retention and performance.
+## 🛠 Tools & Skills
 
-**Conclusion**
-We are eager to dive into this project and collaborate effectively to uncover insights that can lead to impactful change in the corporate world. We look forward to sharing our findings with the hackathon community and contributing to the ongoing conversation about employee engagement.
+- Python, Pandas, Seaborn, Matplotlib  
+- Data Cleaning & Feature Engineering  
+- Correlation & Attrition Analysis  
+- Comparative Analysis  
+- Business Recommendations
+
+## 📚 Learning Outcomes
+
+- Improved our data analysis and visualization skills
+- Gained practical exposure to HR analytics challenges
+- Developed a stronger understanding of workplace data interpretation
+
+## 🚧 Challenges
+
+We anticipated and addressed challenges in:
+- Data cleaning and consistency  
+- Interpreting ambiguous features  
+- Comparing across datasets with different structures
+
+## 🌍 Contribution
+
+This project aims to support better employee engagement by providing clear, data-backed insights into what drives retention and satisfaction in the workplace.
+
+---
+
+We’re proud of the insights uncovered in this project and hope it contributes meaningfully to HR analytics discussions and practices.
